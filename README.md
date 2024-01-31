@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pranjali Zade</h1>
-<h3 align="center">Hello there! 👋 I'm [Pranjali Zade], a recent graduate passionate and aspiring about data analyst and its impact on decision-making..</h3>
+< I am a data analyst and aspiring data scientist who enjoys working with data and finding valuable insights. I am particularly interested in real-time projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalizade4&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalizade4" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 💞️ I’m looking to collaborate **on full time data analyst/business analyst job roles**
 
-- 🌱 I’m currently learning **Advanced python And Machine Learning and building projects using Power BI, SQL, Python and Advance Excel.**
+- 🌱 I’m currently learning **Advanced python, Machine Learning and building projects using Power BI, SQL, Python and Advance Excel.**
 
-- Top skills **Data Analysis,Power BI,Microsoft SQL,Data visulation,Excel,python**
+- Top skills **Data Analysis,Power BI,Microsoft SQL,Data visulation,Excel,Python**
 
 - 📫 How to reach me **pranjalizade141@gmail.com**
 
